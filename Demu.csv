@@ -1,0 +1,7 @@
+id,Chp,ECG,Vessel,Class
+p1,2,0,3,Yes
+p2,1,2,1,No
+p3,3,2,3,Yes
+p4,2,0,0,No
+p5,3,0,0,No
+p6,3,0,0,Yes
